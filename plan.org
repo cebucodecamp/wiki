@@ -1,0 +1,39 @@
+* #Talks
+** Ron
+** Murat
+** Zak
+** JayR
+** Bastist (?)
+** Sab
+** The guy we all know (?)
+** Andrea
+** Banx (?) 
+** Mike (?)
+* Questions
+** Ask Maoalboal guy for hackathon project
+* #Lightening talks
+** Banx
+** Segfreid
+** Mike
+* # Registration & payment page with bitcoin/dash payment support
+* hackathon
+* Scavenger Hunt by engageSPARK
+* Photo booth
+* Food & drinks
+* Swags
+** t-shirts for attendees who pay for it
+** sweat towel
+* Certificates for attendees
+* SMS shoutout with raspberryPi
+* People
+** Host
+** Time Master
+** Welcome speech
+* Matrials
+** Logo for PizzaPy
+** poster for online promotions
+** Stickers of all kinds
+** Name badges
+*** with Name, company, prefrred standard library. 
+* Audio Video equipments. 
+** Remix , record video. 
